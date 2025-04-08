@@ -27,10 +27,11 @@ arXiv: [2504.04855](https://arxiv.org/abs/2504.04855)
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2504.04855}, 
 }
-📬 Contact
+```
+
+## 📬 Contact
 For questions or collaboration opportunities, please contact:
 Haoxuan Li – lihaoxua@usc.edu
----
 
 
 ## 📁 Repository Structure
