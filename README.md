@@ -4,10 +4,6 @@
 
 This repository contains the implementation, evaluation scripts, and experimental data for our paper:  
 **"BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents"**  
-by Haoxuan Li, Mingyu Derek Ma, Jen-tse Huang, Zhaotian Weng, Wei Wang, and Jieyu Zhao.
-
-We propose a comprehensive LLM-based agent framework for detecting distributional and correlational bias in structured datasets.  
-Our approach integrates multi-agent collaboration, ReAct reasoning, and self-reflection to achieve both accuracy and interpretability.
 
 ## 📄 Citation
 
