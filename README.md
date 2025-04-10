@@ -14,14 +14,11 @@ Haoxuan Li, Mingyu Derek Ma, Jen-tse Huang, Zhaotian Weng, Wei Wang, Jieyu Zhao
 arXiv: [2504.04855](https://arxiv.org/abs/2504.04855)
 
 ```bibtex
-@misc{li2025biasinspectordetectingbiasstructured,
-      title={BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents}, 
-      author={Haoxuan Li and Mingyu Derek Ma and Jen-tse Huang and Zhaotian Weng and Wei Wang and Jieyu Zhao},
-      year={2025},
-      eprint={2504.04855},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2504.04855}, 
+@article{li2025biasinspector,
+  title={BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents},
+  author={Li, Haoxuan and Ma, Mingyu Derek and Huang, Jen-tse and Weng, Zhaotian and Wang, Wei and Zhao, Jieyu},
+  journal={arXiv preprint arXiv:2504.04855},
+  year={2025}
 }
 ```
 
